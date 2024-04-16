@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+E:/ThayLoc/ble_compatibility_test/build/CMakeFiles/bootloader
+E:/ThayLoc/ble_compatibility_test/build/CMakeFiles/bootloader.rule
+E:/ThayLoc/ble_compatibility_test/build/CMakeFiles/bootloader-complete.rule
+E:/ThayLoc/ble_compatibility_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+E:/ThayLoc/ble_compatibility_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+E:/ThayLoc/ble_compatibility_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+E:/ThayLoc/ble_compatibility_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+E:/ThayLoc/ble_compatibility_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+E:/ThayLoc/ble_compatibility_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+E:/ThayLoc/ble_compatibility_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
